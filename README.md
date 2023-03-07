@@ -1,6 +1,6 @@
 # AccountMaster
 
-AccountMaster uygulaması SphereServer accounts klasörü içindeki sphereaccu.scp dosyasını okuyan bir uygulamadır.
+AccountMaster uygulaması SphereServer accounts klasörü içindeki sphereaccu.scp dosyasını okuyan C# programlama dili, Visual Studio 2022 IDEsi ve .NET Framework 4.5 çerçevesi kullanılarak yapılmış bir uygulamadır.
 
 Uygulama içerisinden SphereServerda kayıtlı hesapların yönetimini yapabilirsiniz.
 
