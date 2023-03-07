@@ -4,6 +4,7 @@ AccountMaster uygulaması SphereServer accounts klasörü içindeki sphereaccu.s
 
 Uygulama içerisinden SphereServerda kayıtlı hesapların yönetimini yapabilirsiniz.
 
+![Adsız](https://user-images.githubusercontent.com/10347131/223496207-14d395af-5f12-4ee7-a2ed-7a580062e784.png)
 
 Uygulama SphereServer.exe (Farklı sürümlerin farklı isimleri olabilir) aynı dizinde çalışmalıdır. "accounts" klasörü veya başka bir dizinde çalışmamalıdır.
 
